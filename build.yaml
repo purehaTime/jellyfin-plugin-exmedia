@@ -1,0 +1,16 @@
+---
+name: "ExMedia"
+guid: "0dc66dab-09a9-4f10-ae5d-b928c9dfc786"
+version: "1.0.0.0"
+targetAbi: "10.9.0.0"
+framework: "net9.0"
+overview: "Plugin to allow add external media"
+description: >
+  This is a longer description that can span more than one
+  line and include details about your plugin.
+category: "General"
+owner: "purehaTime"
+artifacts:
+- "Jellyfin.Plugin.ExMedia.dll"
+changelog: >
+  changelog
